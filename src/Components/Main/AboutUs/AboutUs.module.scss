@@ -1,0 +1,43 @@
+.AboutUsWrapper {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 200px;
+}
+
+.AboutUsHeadWrapper {
+  display: flex;
+  align-items: center;
+}
+
+.AboutUsMainContentWrapper {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 50px;
+}
+
+.AboutUsLogo {
+  width: 500px;
+  height: 700px;
+}
+
+.AboutUsMainText {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  max-width: 700px;
+}
+
+.wandWrapper {
+  background-color: white;
+  width: 70px;
+  height: 2px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.AboutUsMainTextItem {
+  margin-bottom: 60px;
+  :last-child {
+    margin-bottom: 0px;
+  }
+}

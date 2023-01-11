@@ -1,0 +1,48 @@
+.Services {
+  margin-bottom: 200px;
+}
+
+.ServicesHeadWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 100px;
+}
+
+.wandWrapper {
+  background-color: white;
+  width: 70px;
+  height: 2px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.servicesCardWrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.servicesCard {
+  border: 1px solid white;
+  width: 560px;
+}
+
+.servicesCardContent {
+  padding: 20px 25px;
+  :last-child {
+    margin-bottom: 0px;
+  }
+}
+
+.servicesItem {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 25px;
+}
+
+.servicesCardTitle {
+  background-color: #0e1b3c;
+  padding: 25px;
+  font-size: 38px;
+  text-align: center;
+  border: 1px solid white;
+}

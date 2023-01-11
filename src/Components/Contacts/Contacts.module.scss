@@ -1,0 +1,35 @@
+.contactsHeadWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.wandWrapper {
+  background-color: white;
+  width: 70px;
+  height: 2px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.contactsContentWrapper {
+  border: 1px solid white;
+  width: 460px;
+  padding: 30px 20px;
+}
+
+.wandShortWrapper {
+  background-color: white;
+  width: 20px;
+  height: 2px;
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.contactsContentTitle {
+  display: flex;
+  align-items: center;
+}
+.contactsContentText {
+  align-self: center;
+}

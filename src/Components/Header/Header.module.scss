@@ -1,0 +1,39 @@
+.header {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 300px;
+}
+
+.logoBlock {
+  display: flex;
+  align-items: center;
+}
+
+.logoBlockTextWrapper {
+  border-left: 1px solid white;
+  margin: 0px;
+  text-align: center;
+  padding-left: 20px;
+  margin-left: 15px;
+}
+
+.contactNumber {
+  font-size: 20px;
+}
+
+.Logo {
+  width: 190px;
+  height: 57px;
+}
+
+.navLink {
+  padding: 10px;
+}
+
+.navContacts {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}

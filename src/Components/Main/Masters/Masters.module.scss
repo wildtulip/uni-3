@@ -1,0 +1,32 @@
+.MastersWrapper {
+  margin-bottom: 150px;
+}
+
+.MastersHeadWrapper {
+  display: flex;
+  align-items: center;
+  margin-bottom: 50px;
+}
+
+.wandWrapper {
+  background-color: white;
+  width: 70px;
+  height: 2px;
+  margin-right: 10px;
+  margin-top: 10px;
+}
+
+.mastersItemText {
+  display: flex;
+  align-items: center;
+  :first-child {
+    margin-right: 5px;
+  }
+  margin-bottom: 50px;
+}
+
+.mastersCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
